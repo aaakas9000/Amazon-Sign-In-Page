@@ -1,0 +1,107 @@
+*{
+  margin: 5px;
+}
+  
+
+.container{
+ 
+  padding: 12px 25px;
+  border:1px solid; color: rgb(27, 21, 19);
+  width: 350px;
+  height: 470px;
+  align-items: center;
+  text-align:left;
+  border-color:  rgba(80, 78, 78, 0.229);
+  border-radius: 15px;
+  position: relative;left: 38%;
+  position: relative;bottom: 0px;
+}
+
+#first_image{
+  position:relative; left: 45%
+}
+
+#signin{
+  font-size:38px;
+  font-weight: 500;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#label{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+}
+.input:hover{
+  color: aqua;
+}
+
+.button{
+  width: 350px;
+  height: 40px;
+  border-radius: 8px;
+  background-color:rgb(250, 209, 4);
+  color: black;
+  position: relative; top: 8px;
+  font-weight: 600;
+  border: none;
+  
+}
+
+.privacyNotice{
+  position: relative;top: 30px;
+  font-weight: 520;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  word-spacing: 2px;
+}
+
+.summary{
+  position: relative;top: 55px;
+  line-height:10px;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#hr{
+  font-weight: 300;
+  
+  
+}
+#Buying{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+padding:20px 0px;
+position: relative;bottom: 20px;
+
+}
+.a-divider{
+  text-align: center;
+  position: relative;bottom:0px; font-weight: 500;
+  color: darkgray;
+  position: relative;right: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#btn2{
+  width: 337px;
+  height: 40px;
+  border-radius: 8px;
+  font-size: 18px;
+  position: relative;left: 40%;
+  background-color: white;
+  position: relative;top: 15px;
+  border-color: rgba(113, 113, 111, 0.282);
+}
+.footer{
+position: relative;left: 40%;
+position: relative;top: 40px;
+line-height: 10px;
+background-color: rgba(255, 255, 255, 0.505);
+text-decoration: none;
+
+}
+.body{
+  position: relative;bottom: 10px;
+}
+
